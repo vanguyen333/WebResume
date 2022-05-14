@@ -1,0 +1,69 @@
+/* Styling the headers h1, h2, h3 with different colors */
+h1 {
+  color: rgb(70, 13, 146);
+}
+h2 {
+  color: blueviolet;
+}
+h3 {
+  color: rgb(202, 102, 20);
+  text-decoration: underline;
+}
+
+h4 {
+  color: rgb(150, 62, 11);
+}
+/* styling the nave bar */
+.style1 {
+  padding: 17px;
+  font-size: large;
+  margin: auto;
+  width: 80%;
+  background: rgb(5, 202, 186);
+  text-decoration: none;
+  text-align: center;
+}
+/* styling the nave bar */
+div a {
+  padding: 7px;
+  font-weight: bold;
+}
+
+/* adding color to the body's background */
+
+body {
+  background-color: rgb(236, 250, 245);
+}
+/* styling the whole content page to be in center */
+.content {
+  text-align: center;
+  margin: auto;
+}
+/* styling the ul element, the list of languages in the resume file */
+.center {
+  max-width: 100px;
+  margin: auto;
+}
+
+/* styling images */
+img {
+  width: 250px;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+/* Styling the lable for the search and drop down menus, to add some space between them */
+label {
+  padding: 10px;
+}
+
+/* move the table from courses page to be in the middle of the page and make the outer border*/
+table {
+  margin: auto;
+  border: 2px solid rgb(5, 202, 186);
+  text-align: center; /*to center the content*/
+}
+/* adding the shells to the table */
+table td {
+  border: 2px solid rgb(5, 202, 186);
+}
